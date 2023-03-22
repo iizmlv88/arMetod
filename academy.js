@@ -1,0 +1,21 @@
+export const academy = [
+  { nazva: "1", max: 11, fac: "Slizerin" },
+  { nazva: "2", max: 10, fac: "Grifindor" },
+  { nazva: "3", max: 20, fac: "Pufendyi" },
+  { nazva: "4", max: 10, fac: "Slizerin" },
+  { nazva: "5", max: 20, fac: "Pufendyi" },
+  { nazva: "6", max: 20, fac: "Grifindor" },
+  { nazva: "7", max: 20, fac: "Slizerin" },
+  { nazva: "8", max: 15, fac: "Pufendyi" },
+  { nazva: "9", max: 20, fac: "Slizerin" },
+  { nazva: "10", max: 15, fac: "Pufendyi" },
+  { nazva: "A", max: 16, fac: "Grifindor" },
+  { nazva: "B", max: 20, fac: "Kogtevran" },
+  { nazva: "C", max: 19, fac: "Slizerin" },
+  { nazva: "D", max: 19, fac: "Grifindor" },
+  { nazva: "E", max: 20, fac: "Slizerin" },
+  { nazva: "F", max: 20, fac: "Kogtevran" },
+  { nazva: "G", max: 10, fac: "Slizerin" },
+  { nazva: "H", max: 20, fac: "Kogtevran" },
+];
+
